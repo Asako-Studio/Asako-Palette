@@ -1,0 +1,9 @@
+{
+  "backgroundColor": "#fff",
+  "navigationBarTextStyle": "black",
+  "usingComponents": {
+    "tm-navbar": "/components/tm-navbar/index",
+    "tm-spin": "/components/tm-spin/index",
+    "tm-icon": "/components/tm-icon/index"
+  }
+}

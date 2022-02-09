@@ -1,0 +1,14 @@
+{
+  "backgroundColorTop": "#11121c",
+  "backgroundColorBottom": "#11121c",
+  "backgroundColor": "#11121c",
+  "usingComponents": {
+    "tm-navbar": "/components/tm-navbar/index",
+    "tm-avatar": "/components/tm-avatar/index",
+    "tm-icon": "/components/tm-icon/index",
+    "tm-badge": "/components/tm-badge/index",
+    "tm-spin": "/components/tm-spin/index",
+    "tm-button": "/components/tm-button/index",
+    "tm-actionsheet": "/components/tm-actionsheet/index"
+  }
+}

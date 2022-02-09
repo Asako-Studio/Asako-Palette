@@ -1,0 +1,6 @@
+{
+  "usingComponents": {
+    "tm-mask": "/components/tm-mask/index"
+  },
+  "component": true
+}

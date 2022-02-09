@@ -1,0 +1,7 @@
+{
+  "usingComponents": {
+    "tm-avatar": "/components/tm-avatar/index",
+    "tm-icon": "/components/tm-icon/index"
+  },
+  "component": true
+}

@@ -1,0 +1,13 @@
+{
+  "navigationBarBackgroundColor": "#fff",
+  "navigationBarTextStyle": "black",
+  "navigationStyle": "default",
+  "disableScroll": true,
+  "usingComponents": {
+    "tm-button": "/components/tm-button/index",
+    "tm-spin": "/components/tm-spin/index",
+    "tm-badge": "/components/tm-badge/index",
+    "tm-actionsheet": "/components/tm-actionsheet/index",
+    "tp-layout": "/pages/land/components/tp_layout"
+  }
+}

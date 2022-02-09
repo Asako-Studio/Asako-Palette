@@ -1,0 +1,23 @@
+{
+  "pages": [
+    "pages/home/index",
+    "pages/lab/index",
+    "pages/webview/index",
+    "pages/land/index",
+    "pages/creator/index",
+    "pages/about/index"
+  ],
+  "subPackages": [],
+  "window": {
+    "navigationStyle": "custom"
+  },
+  "permission": {
+    "scope.userLocation": {
+      "desc": "用于展示您附近的天气和居家、出行推荐服务。"
+    }
+  },
+  "usingComponents": {
+    "poster": "/wxcomponents/wxa-plugin-canvas/poster/index"
+  },
+  "sitemapLocation": "sitemap.json"
+}

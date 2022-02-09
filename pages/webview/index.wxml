@@ -1,0 +1,1 @@
+<view class="_article"><block wx:if="{{loading}}"><tm-spin vue-id="0f48ec5a-1" fix="{{true}}" size="huge" bind:__l="__l"></tm-spin></block><block wx:else><web-view src="{{webUrl}}"></web-view></block></view>
